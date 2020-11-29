@@ -14,6 +14,8 @@ lcu-driver
 5. Alter your League of Legends profile however you like
 
 # Development Team:
+Jacky Nguyen - https://github.com/jacky-h-nguyen
+
 Jacky Liu - https://github.com/jackyliu1999
 
-Jacky Nguyen - https://github.com/jacky-h-nguyen
+
