@@ -16,6 +16,4 @@ lcu-driver
 # Development Team:
 Jacky Nguyen - https://github.com/jacky-h-nguyen
 
-Jacky Liu - https://github.com/jackyliu1999
-
 
